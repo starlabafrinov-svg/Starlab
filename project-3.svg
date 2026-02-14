@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 180" role="img" aria-label="Projet énergie">
+  <rect width="280" height="180" rx="20" fill="#ffffff" />
+  <circle cx="78" cy="78" r="40" fill="#f46b45" />
+  <circle cx="78" cy="78" r="18" fill="#ffd3a6" />
+  <rect x="140" y="48" width="110" height="20" rx="10" fill="#0f1d2b" opacity="0.12" />
+  <rect x="140" y="80" width="90" height="16" rx="8" fill="#2b59c3" opacity="0.8" />
+  <rect x="140" y="108" width="70" height="14" rx="7" fill="#0f1d2b" opacity="0.12" />
+</svg>

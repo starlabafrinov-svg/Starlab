@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" role="img" aria-label="Helios Ventures logo">
+  <rect width="220" height="120" rx="16" fill="#f5f2ed" />
+  <circle cx="70" cy="60" r="28" fill="#f46b45" />
+  <circle cx="70" cy="60" r="16" fill="#ffd3a6" />
+  <text x="110" y="68" font-family="'Space Grotesk', Arial, sans-serif" font-size="22" fill="#0f1d2b">Helios</text>
+</svg>

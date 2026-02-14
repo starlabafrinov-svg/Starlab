@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" role="img" aria-label="NovaCité logo">
+  <rect width="220" height="120" rx="16" fill="#0f1d2b" />
+  <text x="24" y="70" font-family="'Space Grotesk', Arial, sans-serif" font-size="28" fill="#f5f2ed">NovaCité</text>
+  <circle cx="176" cy="52" r="16" fill="#f46b45" />
+</svg>

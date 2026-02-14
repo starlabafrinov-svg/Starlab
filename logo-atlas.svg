@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" role="img" aria-label="Réseau Atlas logo">
+  <rect width="220" height="120" rx="16" fill="#ffffff" />
+  <path d="M30 70c18-30 60-40 90-26 30 14 48 48 68 58" fill="none" stroke="#2b59c3" stroke-width="6" />
+  <text x="30" y="50" font-family="'Space Grotesk', Arial, sans-serif" font-size="20" fill="#0f1d2b">Réseau Atlas</text>
+</svg>

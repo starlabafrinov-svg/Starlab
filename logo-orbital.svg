@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120" role="img" aria-label="Orbital Labs logo">
+  <rect width="220" height="120" rx="16" fill="#162c44" />
+  <circle cx="70" cy="60" r="26" fill="none" stroke="#f46b45" stroke-width="6" />
+  <circle cx="110" cy="60" r="6" fill="#f5f2ed" />
+  <text x="130" y="68" font-family="'Space Grotesk', Arial, sans-serif" font-size="20" fill="#f5f2ed">Orbital</text>
+</svg>
